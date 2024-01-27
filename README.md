@@ -44,11 +44,11 @@ Create a .env file in the server directory and set your MongoDB URI and other ne
 Run the Application:
 # Run the server
 cd server
-npm start
+yarn start
 
 # Run the client
 cd ../client
-npm start
+yarn start
 
 # Usage
 Open your browser and go to http://localhost:3000 to access the chat application.
